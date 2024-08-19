@@ -12,3 +12,4 @@ A Netflix Clone developed using React Js with the help of `Redux` , `Firebase` a
 ![image](https://github.com/user-attachments/assets/a13f8069-8cad-403e-9600-178321ca54d3)
 
 
+![image](https://github.com/user-attachments/assets/a13f8069-8cad-403e-9600-178321ca54d3)
